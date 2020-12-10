@@ -4,7 +4,7 @@ My name is Pedro Augusto and I'm a brazillian programmer in love with automation
 
 ### About me
 - 🔭 I’m currently working on apps with ReactNative and websites with FullStack Rails or Rails API + React
-- 🌱 I’m currently learning NextJs, AdonisJs and Microservices
+- 🌱 I’m currently learning NextJs, Elixir, phoenix and Microservices
 - 👯 I’m looking to collaborate on any amazing project
 - 💬 Ask me about Django, Rails, Python, ReactNative.
 - ⚡ Fun fact: Rails > Node
