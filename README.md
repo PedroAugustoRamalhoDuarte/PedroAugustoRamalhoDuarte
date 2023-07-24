@@ -9,7 +9,7 @@ Currently, we are working on educational and energy plataforms that will build a
 
 ## About me
 - 🔭 I’m currently working at @SwitchDreams as CTO.
-- 🧰 My current stack is Rails 🚆 and ReactNative or NextJS.
+- 🧰 My current stack is Rails 🚆 and ReactNative or InertiaJS.
 - 🌱 I’m currently learning UI Architecture and how to improve developer experience.
 - 👯 I’m looking to collaborate on any amazing project.
 - 💬 Ask me about Ruby on Rails, React/ReactNative, Project Managment, Rails Performance.
