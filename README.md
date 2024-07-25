@@ -13,13 +13,12 @@ Currently, we are working on educational and energy plataforms that will build a
 - 🌱 I’m currently learning PSQL Performance, Software Architecture and how to improve developer experience.
 - 👯 I’m looking to collaborate on any amazing project.
 - 💬 Ask me about Ruby on Rails, React/ReactNative, Project Managment, Rails Performance.
-- ♥️  Ruby on Rails
+- ❤️ Ruby on Rails
 
 ## Favorite tools
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
