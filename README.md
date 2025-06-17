@@ -3,9 +3,10 @@
 My name is Pedro Augusto. I'm a Brazilian programmer with a passion for software development and innovation. 
 As the founder of [SwitchDreams](https://switchdreams.com.br/), I lead a team of talented developers who are committed to creating cutting-edge solutions.
 
-Currently, we are working on educational and energy plataforms that will build a better world.
+Currently, we are building the best project manager tool for Software Houses: [Switch Kanban](https://www.switchkanban.com.br?utm_source=github)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-ramalho-duarte-1a12b458/)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/pedroarduarte)
 
 ## About me
 - 🔭 I’m currently working at @SwitchDreams as CTO.
