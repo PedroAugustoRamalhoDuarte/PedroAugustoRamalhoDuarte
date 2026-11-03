@@ -13,6 +13,7 @@ Ask me about Ruby on Rails, performance tuning, React/Inertia, SaaS at scale, or
 ## Find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-arduarte/)
+[![Blog](https://img.shields.io/badge/blog-pedro.switchdreams.com.br-3178C6?style=for-the-badge&logo=rocket&logoColor=white)](https://pedro.switchdreams.com.br)
 [![Synkrony](https://img.shields.io/badge/synkrony.ai-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://www.synkrony.ai)
 
 ## Stack I ship with
