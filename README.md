@@ -1,28 +1,28 @@
-## Hi there :wave: !
+## Pedro Augusto Ramalho Duarte
 
-My name is Pedro Augusto. I'm a Brazilian programmer with a passion for software development and innovation. 
-As the founder of [SwitchDreams](https://switchdreams.com.br/), I lead a team of talented developers who are committed to creating cutting-edge solutions.
+I'm a senior software engineer from Brazil with a passion for software development and innovation. I'm the CTO at [Switch Dreams](https://switchdreams.com.br/), where I lead a team building SaaS products for hundreds of thousands of users.
 
-Currently, we are building the best project manager tool for Software Houses: [Switch Kanban](https://www.switchkanban.com.br?utm_source=github)
+Most of my work is in **Ruby on Rails and React/TypeScript**, with PostgreSQL, Redis, Docker and Kubernetes underneath, and OpenTelemetry for observability. The product I'm proudest of is [EduQ Brasil](https://eduqbrasil.com.br), an educational management platform serving over **400,000 users** that we built and I lead to this day. On the same ecosystem, [EduQ Corrige](https://eduqbrasil.com.br) processes **3M+ answer-sheet corrections per year**.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-ramalho-duarte-1a12b458/)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/pedroarduarte)
+Lately a big part of my work is **AI-assisted engineering**: we built [Synkrony](https://www.synkrony.ai), a platform that orchestrates AI agents to generate pull requests with human review in the loop. Adopting Claude Code and agentic workflows across our engineering process roughly doubled our team's productivity. Happy to talk about how to make LLMs actually useful in real production codebases.
 
-## About me
-- 🔭 I’m currently working at @SwitchDreams as CTO.
-- 🧰 My current stack is Rails 🚆 and ReactNative or InertiaJS.
-- 🌱 I’m currently learning PSQL Performance, Software Architecture and how to improve developer experience.
-- 👯 I’m looking to collaborate on any amazing project.
-- 💬 Ask me about Ruby on Rails, React/ReactNative, Project Managment, Rails Performance.
-- ❤️ Ruby on Rails
+**What I'm up to now:** deepening PostgreSQL performance work, studying software architecture, and improving developer experience for my team.
 
-## Favorite tools
+Ask me about Ruby on Rails, performance tuning, React/Inertia, SaaS at scale, or bringing AI workflows into an engineering team.
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-arduarte/)
+[![Synkrony](https://img.shields.io/badge/synkrony.ai-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)](https://www.synkrony.ai)
+
+## Stack I ship with
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Claude Code](https://img.shields.io/badge/claude%20code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
